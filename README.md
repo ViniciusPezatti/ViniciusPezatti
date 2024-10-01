@@ -27,7 +27,7 @@
 
 <div>
   <a href="https://github.com/viniciuspezatti">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=viniciuspezatti&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=viniciuspezatti&show_icons=true&theme=merko&include_all_commits=true&count_private=false"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspezatti&layout=compact"/>
   
 </div>
