@@ -2,7 +2,7 @@
 
 
 - 🏛 Engº Civil, atualmente estudando ENGENHARIA DE DADOS (Escola DNC).
-- 💻 Aprendendo: MS Power BI | Python | Excel | SQL 📊📉📈
+- 💻 Aprendendo: MS Power BI | Python | Spark | Excel | SQL 📊📉📈
 - 🖋 LinkedIn: https://www.linkedin.com/in/viniciuspezatti/
 - Em busca de oportunidades na área de análise e engenharia de dados.
 
