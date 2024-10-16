@@ -1,53 +1,26 @@
-## Olá, sou Vinicius Pezatti Alves
-
-
-- 🏛 Engº Civil, atualmente estudando ENGENHARIA DE DADOS (Escola DNC).
-- 💻 Aprendendo: MS Power BI | Python | Spark | Excel | SQL 📊📉📈
-- 🖋 LinkedIn: https://www.linkedin.com/in/viniciuspezatti/
-- Em busca de oportunidades na área de análise e engenharia de dados.
-
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;"><br>
- <img align="center" alt="Rafa-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Rafa-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
- <img align="center" alt="Rafa-Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
- <img align="center" alt="Rafa-Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
- <img align="center" alt="Rafa-Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
- <img align="center" alt="Rafa-Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
- <img align="center" alt="Rafa-Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
- <img align="center" alt="Rafa-Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg">
-</div>
-
-
-##
-
-</div>
-  <a href="https://instagram.com/viniciuspezatti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciuspezatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  
-</div>
-
-##
-
-<div>
-  <a href="https://github.com/viniciuspezatti">
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspezatti&layout=compact"/>
-  
-</div>
-    
-
-
-
-
 ## 👋 Olá, sou Vinicius Pezatti Alves
 
-- 🎓 **Engenheiro Civil** com mais de 3 anos de experiência em **energias renováveis** e atualmente cursando **Pós-graduação em Engenharia de Dados** na Escola DNC.
-- 🚀 Apaixonado por **dados** e em constante evolução em **Power BI, Python, Spark, SQL, Docker e Machine Learning**.
-- 🔍 **Em busca de oportunidades** na área de **análise e engenharia de dados**.
-- 🌍 Possuo **dupla nacionalidade brasileira e portuguesa**, disponível para **desafios globais**.
+- 🎓 **Engenheiro Civil** com mais de 15 anos de experiência em obras
+- 🏛  Experiência de 5 anos em **Energias Renováveis**
+- 💻 Atualmente cursando **Pós-graduação em Engenharia de Dados** na Escola DNC.
+- 🖋  LinkedIn: https://www.linkedin.com/in/viniciuspezatti/
 
-📫 **Vamos nos conectar?** [LinkedIn](https://www.linkedin.com/in/viniciuspezatti/) | [Instagram](https://instagram.com/viniciuspezatti) 
+---
+
+- 🚀 Em constante evolução em **Power BI | Python | Spark | SQL | Docker | Machine Learning** 📊
+***
+- 🔍 **Em busca de oportunidades** na área de **Análise e Engenharia de Dados** 📉
+***
+- 🌍 Possuo **dupla nacionalidade brasileira e portuguesa**, disponível para **desafios globais** 📈
+
+---
+
+### 🚀 Vamos nos Conectar!
+<div>
+  <a href="https://instagram.com/viniciuspezatti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/viniciuspezatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:viniciuspezatti@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
@@ -92,16 +65,3 @@
 - [Projeto 3: Processamento de Big Data com Apache Spark](https://github.com/viniciuspezatti/projeto3)
   - **Descrição:** Processamento de grandes volumes de dados para análise de tendências de mercado.
 
----
-
-### 🚀 Vamos nos Conectar!
-<div>
-  <a href="https://instagram.com/viniciuspezatti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciuspezatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:viniciuspezatti@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
----
-
-### 📊 Gráficos de Contribuição
-![Snake animation](https://github.com/viniciuspezatti/viniciuspezatti/blob/output/github-contribution-grid-snake.svg)
