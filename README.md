@@ -17,16 +17,16 @@
 <div>
   <a href="https://instagram.com/viniciuspezatti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciuspezatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:viniciuspezatti@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:viniciuspezatti84@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
 ### 📚 O que estou aprendendo:
-- **Ferramentas de análise:** Power BI, Excel
-- **Linguagens de programação:** Python, SQL
-- **Big Data e processamento distribuído:** Apache Spark, PySpark
-- **Outras tecnologias:** Docker, Anaconda
+- **Ferramentas de análise:**    Power BI, Excel
+- **Linguagens de programação:**    Python, SQL
+- **Big Data e processamento distribuído:**    Apache Spark, PySpark
+- **Outras tecnologias:**    Docker, Anaconda
 
 ---
 
