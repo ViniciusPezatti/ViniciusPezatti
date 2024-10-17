@@ -41,18 +41,19 @@
   <img align="center" alt="Apache Spark" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" style="margin: 10px;">
   <img align="center" alt="Metabase" height="70" width="70" src="https://metabase.com/images/metabase-icon.svg" style="margin: 10px;">
   <img align="center" alt="Google Colab" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Google_Colab_logo.svg/2048px-Google_Colab_logo.svg.png" style="margin: 10px;">
-  <img align="center" alt="SQLite Studio" height="70" width="70" src="https://www.sqlite.org/images/sqlite370.svg" style="margin: 10px;">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 50px; margin: 20px 0;">
   <img align="center" alt="NumPy" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="margin: 10px;">
+  <img align="center" alt="SQLite Studio" height="70" width="70" src="https://www.sqlite.org/images/sqlite370.svg" style="margin: 10px;">
   <img align="center" alt="Jupyter" height="70" width="70" src="https://raw.githubusercontent.com/jupyter/design/master/logo/jupyter/mark/jupyter-mark.svg" style="margin: 10px;">
-  <img align="center" alt="Tableau" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tableau_Logo.svg/1200px-Tableau_Logo.svg.png" style="margin: 10px;">
   <img align="center" alt="Git" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 10px;">
-  <img align="center" alt="R" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="margin: 10px;">
-  <img align="center" alt="Hadoop" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" style="margin: 10px;">
-  <img align="center" alt="Tableau" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tableau_Logo.svg/1200px-Tableau_Logo.svg.png" style="margin: 10px;">
-  <img align="center" alt="Kubernetes" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="margin: 10px;">
+  <img align="center" alt="TensorFlow" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/20/TensorFlow_logo_and_wordmark.svg" style="margin: 10px;">
+  <img align="center" alt="OpenCV" height="70" width="70" src="https://opencv.org/images/opencv_logo_w.png" style="margin: 10px;">
+  <img align="center" alt="Matplotlib" height="70" width="70" src="https://matplotlib.org/stable/_static/images/logo2.svg" style="margin: 10px;">
+  <img align="center" alt="SciPy" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SciPy_Logo.svg/1280px-SciPy_Logo.svg.png" style="margin: 10px;">
+  <img align="center" alt="Flask" height="70" width="70" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask.svg" style="margin: 10px;">
+  <img align="center" alt="Dash" height="70" width="70" src="https://dash.plotly.com/assets/images/dash-logo.png" style="margin: 10px;">
 </div>
 
 
