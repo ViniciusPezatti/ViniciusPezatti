@@ -62,4 +62,22 @@
   - **Descrição:** Criação de dashboards para monitoramento de KPIs em tempo real.
 - [Projeto 3: Processamento de Big Data com Apache Spark](https://github.com/viniciuspezatti/projeto3)
   - **Descrição:** Processamento de grandes volumes de dados para análise de tendências de mercado.
+ 
+
+
+
+### 📚 O que estou aprendendo:
+- **Ferramentas de análise:**    
+  <img align="center" alt="Power BI" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="margin: 5px;"> 
+  <img align="center" alt="Excel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_Logo.png" style="margin: 5px;"> 
+- **Linguagens de programação:**    
+  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin: 5px;"> 
+  <img align="center" alt="SQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="margin: 5px;"> 
+- **Big Data e processamento distribuído:**    
+  <img align="center" alt="Spark" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" style="margin: 5px;"> 
+  <img align="center" alt="PySpark" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/6/66/PySpark_logo.png" style="margin: 5px;"> 
+- **Outras tecnologias:**    
+  <img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="margin: 5px;"> 
+  <img align="center" alt="Anaconda" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="margin: 5px;"> 
+
 
