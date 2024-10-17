@@ -31,7 +31,7 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 100px; padding: 100px 0;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 300px; padding: 300px 0;">
   <img align="center" alt="Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="SQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
