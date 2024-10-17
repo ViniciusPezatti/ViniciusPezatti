@@ -7,8 +7,8 @@
 
 ---
 
-- 🚀 Em constante evolução em ➡ **Power BI  |  Python  |  Spark  |  SQL  |  Docker  |  Machine Learning**
-- 🔍 **Em busca de oportunidades** ➡  **Análise e Engenharia de Dados** 
+- 🚀 Em constante evolução em -> **Power BI  |  Python  |  Spark  |  SQL  |  Docker  |  Machine Learning**
+- 🔍 **Em busca de oportunidades** ->  **Análise e Engenharia de Dados** 
 - 🌍 Possuo **dupla nacionalidade brasileira e portuguesa**, disponível para **desafios globais**
 
 ---
