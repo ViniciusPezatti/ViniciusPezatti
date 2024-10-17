@@ -36,7 +36,8 @@
   <img align="center" alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="SQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Docker" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Power BI" height="70" width="70" src="<a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" /></a>">
+  <img align="center" alt="Power BI" height="70" width="70" 
+src="<ahref="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
   <img align="center" alt="Visual Studio Code" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="NumPy" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="Pandas" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
