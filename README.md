@@ -1,6 +1,6 @@
-## 👋 Olá, sou Vinicius Pezatti Alves
+##  Olá, sou Vinicius Pezatti Alves
 
-- 🎓 **Engenheiro Civil** com mais de 15 anos de experiência em obras
+- 🏗️ **Engenheiro Civil** com mais de 15 anos de experiência em obras
 - ☀️  Experiência de 5 anos em **Energias Renováveis** 
 - 💻 Atualmente cursando **Pós-graduação em Engenharia de Dados** na Escola DNC.
 - 📫  LinkedIn: https://www.linkedin.com/in/viniciuspezatti/
