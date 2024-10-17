@@ -7,8 +7,9 @@
 
 ---
 
-- 🚀 Em constante evolução em ➡️ <span style="color: red;">**Power BI  |  Python  |  Spark  |  SQL  |  Docker  |  Machine Learning**</span>  📊
-- 🔍 **Em busca de oportunidades**  na área de  **Análise e Engenharia de Dados**  📉
+- 🚀 Em constante evolução em ➡️ <span style="color: yellor;">**Power BI  |  Python  |  Spark  |  SQL  |  Docker  |  Machine Learning**</span>  📊
+- <span style="color: red;">Texto em vermelho</span>
+- 🔍 **Em busca de oportunidades** ➡️  área de  **Análise e Engenharia de Dados**  📉
 - 🌍 Possuo **dupla nacionalidade brasileira e portuguesa**, disponível para **desafios globais**  🗺️
 
 ---
