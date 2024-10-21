@@ -57,13 +57,4 @@
   </a>
 </div>
 
----
-
-### 🌱 Projetos em Destaque
-- [Projeto 1: Análise de Dados com Python e Pandas](https://github.com/viniciuspezatti/projeto1)
-  - **Descrição:** Análise exploratória e visualização de dados para insights sobre o mercado de seguros.
-- [Projeto 2: Dashboard Interativo com Power BI](https://github.com/viniciuspezatti/projeto2)
-  - **Descrição:** Criação de dashboards para monitoramento de KPIs em tempo real.
-- [Projeto 3: Processamento de Big Data com Apache Spark](https://github.com/viniciuspezatti/projeto3)
-  - **Descrição:** Processamento de grandes volumes de dados para análise de tendências de mercado.
  
